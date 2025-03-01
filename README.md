@@ -21,8 +21,8 @@ Android Studio - Electric Eel (2022.1.1)
 
 ZXing Android Embedded Library for barcode processing
 
-📽 Demo Video
-Watch the App in Action (video/media1.mp4)
+📽 Demo Video  
+[Download and Watch](video/media1.mp4)
 
 📌 Acknowledgments
 This project was developed under L&T and received recognition from the Goa Chamber of Commerce and Industry for its efficiency and industrial applicability.
