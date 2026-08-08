@@ -1,11 +1,11 @@
 QR & Barcode Scanner App
 
-🚀 Overview
+Overview
 An industrial-grade application designed to scan all QR and Barcodes in circulation. Built with the ZXing Android Embedded Library (ZXing Repository) by @journeyapps, this ensures that the dataset remains updated, allowing for accurate recognition and efficient data extraction.
 
-🏆 Developed under: L&T and acknowledged by the Goa Chamber of Commerce and Industry.
+Developed under: L&T and acknowledged by the Goa Chamber of Commerce and Industry.
 
-🎯 Key Features
+Key Features
 
 Comprehensive Barcode Scanning: Supports a wide range of industrial QR and barcode formats.
 
@@ -15,14 +15,14 @@ Cross-Platform Compatibility: Works seamlessly on both Android & iOS devices.
 
 Lightweight & Efficient: Optimized for real-time scanning with minimal resource usage.
 
-🛠 Developed Using
+Developed Using
 
 Android Studio - Electric Eel (2022.1.1)
 
 ZXing Android Embedded Library for barcode processing
 
-📽 Demo Video  
+Demo Video  
 [Download and Watch](video/media1.mp4)
 
-📌 Acknowledgments
+Acknowledgments
 This project was developed under L&T and received recognition from the Goa Chamber of Commerce and Industry for its efficiency and industrial applicability.
